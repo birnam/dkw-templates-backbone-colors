@@ -76,10 +76,5 @@ require([
     ){
     DomReady(function() {
         App.initialize();
-
-//        $("#blue").scrollTo();
-//        console.log("History", History);
-//        console.log("$.History", $.History);
-//        console.log("scrollto", $.ScrollTo);
     });
 })
